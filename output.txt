@@ -1,0 +1,8 @@
+Id	Name	Age	Salary	Location	Skillset	Deg	
+2	Unknown	29	42808	vizag	Java,js,reactjs	ITA	
+6	Anand	30	71562	chennai	.net,sap,unix	ITA	
+10	Ravi	27	54252	vizag	python,perl,cpp	ITA	
+19	Kiran	26	44129	mumbai	python,perl,cpp	ITA	
+33	Unknown	20	72261	hyd	python,perl,cpp	ITA	
+35	Kiran	28	36966	bangalore	Java,js,reactjs	ITA	
+36	Unknown	25	93646	hyd	Angularjs,html5,css3	ITA	
